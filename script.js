@@ -1,5 +1,5 @@
 const initialCellState = {
-    fontFamily_data: 'Arial',
+    fontFamily_data: 'monospace',
     fontSize_data: '16',
     isBold: false,
     isItalic: false,
